@@ -1,0 +1,65 @@
+169 
+ attributes comprises of parameters related to technical competency/ managerial ability 
+such as availability of qualified personnel and support staff; experience of key 
+personnel or availability of in-house QA practices etc. The Price attribute is related to 
+the price quoted by the bidders. The demand approval process in such cases would 
+inter-alia require compliance of following:  
+a) RFP will be prepared and issued with concurrence of finance. Standard format of 
+RFP would be appropriately modified to incorporate following: 
+(i) Details of work or service to be performed by the contractor. 
+(ii) The facilities and the inputs that would be provided to the contractor by 
+the Lab/Estt. 
+(iii) Eligibility and qualification criteria to be met by the contractor for 
+performing the required work or service. 
+(iv) The statutory and contractual obligations to be complied with by the 
+contractor. 
+(v) Suitable evaluation criteria wherein weightages of “Non -price Attributes” 
+and “Price Attributes” to be mentioned upfront. 
+(vi) In case of outsourcing consultancy services, following Terms of Reference 
+(TOR) will be included in the RFP: 
+ Purpose/ objective of the assignment; 
+ Detailed scope of work;  
+ Expected input of key professionals (number of experts, kind of expertise 
+required);  
+ Proposed schedule for completing the assignment;  
+ Reports/deliverables required from the service provider.  
+ Background material, previous records etc. available and to be provided 
+to the service provider .  
+ Procedure for review of the work of service provider after award of 
+contract.  
+(vii) Standard formats for technical proposal. 
+(viii) Standard formats for financial proposal.  170 
+ b) Pre-bid Meeting:  A pre-bid meeting will invariably be prescribed in the RFP for 
+selection of service provider under CQCCBS. The date and time for such a 
+meeting should normally be after 15 to 30 days of issue of RFP and should be 
+specified in the RFP itself. During this meeting, the scope of assignment, 
+responsibilities of either parties or other details should be clearly explained to the 
+prospective bidders so that there is no ambiguity later on at the time of 
+submission of technical/financial bids. Where some significant changes are made 
+in the terms/ scope of RFP as a result of pre bid meeting or otherwise considered 
+necessary by the Lab/Estt, a formal Corrigendum to RFP may be issued. In such 
+cases, it should be ensured that after issue of Corrigendum, reasonable time is 
+available to the bidders to prepare/submit their bid. If required, the time for 
+preparation and submission of bids may be extended suitably. 
+c) Two bid system will be followed for all cases irrespective of the cost. The 
+submitted bids would be evaluated as per the provisions given for the two bid 
+system in Chapter 6 of this Manual. CNC will be conducted for all cases under 
+CQCCBS.   
+d) CFA will be determined as per the delegation of financial powers in vogue for 
+selection of service provider. 
+14.8 EVALUATION UNDER COMBINED QUALITY CUM COST BASED SYSTEM 
+(CQCCBS) :  
+14.8.1 Under CQCCBS, the proposals will be allotted technical and financial weightage 
+depending upon the nature of assignment.  
+14.8.2 Proposal with the lowest cost, evaluated as per the provision of Chapter 8 of this 
+Manual, may be given a financial score of 100 and other proposals given financial 
+scores that are inversely proportional to their evaluated cost .  
+14.8.3 The total score, both technical and financial, shall be obtained by weighing the quality 
+and cost scores and adding them up. The proposed weightages for technical and 
+financial shall be specified in the RFP.  
+14.8.4 Highest Points Basis : On the basis of the combined weighted score for technical and 
+financial, the service provider shall be ranked in terms of the total score obtained. The 
+proposal obtaining the highest total combined score in evaluation of quality and cost will 
+be ranked as H-1 followed by the proposals securing lesser marks as H-2, H-3 etc. The 
+proposal securing the highest combined marks and ranked H-1 will be invited for 
+negotiations, if required and shall be recommended for award of contract.  

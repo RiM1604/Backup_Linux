@@ -1,0 +1,56 @@
+127 
+ 10 CHAPTER 10  
+POST CONTRACT MANAGEMENT 
+10.1 GENERAL: 
+Lab/Estt will mainta in a „Progress Register‟ or „ Electronic Database ‟ wherein the details 
+of all supply orders/ contracts will be sequentially entered. Such registers/ records will 
+be updated with stages of progress of supply orders/ contracts relating to 
+amendments, if any, stage/ part payments, delivery details, payment details etc. 
+10.2 SUPPLY ORDER/ CONTRACT MONITORING :  
+The supply order/ contract monitoring will be carried out by user group/ Contract 
+Monitoring Committee (CMC)/ Progress Review Committee (PRC), if constituted 
+specifically, and MMG. 
+a) Aspects to be monitored by the user group: 
+(i) Drawings submission/approval 
+(ii) Design reviews 
+(iii) FIM 
+(iv) Testing of components/ Pre-Delivery Inspection (PDI) 
+(v) Site preparation for installation & commissioning etc. 
+b) Aspects to be monitored by MMG : 
+(i) Continued validity of all BGs/ indemnity bonds 
+(ii) Submission of details of design reviews 
+(iii) Insurance for FIM and its continued validity 
+(iv) Issue of CDEC/ GST Exemption Certificate 
+(v) Delivery schedule 
+(vi) Timely information for inspection 
+(vii) Requirement related to freight forwarder 
+(viii) Feedback etc. 
+ 128 
+ 10.3 ROLE OF CMC/ PRC: 
+A CMC/ PRC may be constituted by the Director of the Lab/Estt, with members from 
+MMG and user group. CMC/ PRC will monitor the overall progress of the supply order/ 
+contract and submit its recommendations for the remedial measures to be taken, 
+where required .  
+10.4 RESPONSIBILITY OF USER GROUP: 
+In cases where obligation of supply order/ contract requires design reviews (PDR/ 
+CDR), site preparation for installation/ commissioning, readiness of FIM for issue, 
+timely inspection for quality clearances etc. are involved, the user group will ensure 
+completion of such activities as per the schedule provided in the contract/ supply order.    
+10.5 AMENDMENT TO SUPPLY ORDER/ CONTRACT: 
+Amendments to supply order/ contract will be issued in writing in under-mentioned 
+circumstances with the approval of appropriate authority. 
+10.5.1 Rectification of typographical errors : The approval of Project Director/ Program 
+Director/ Director (Lab/Estt.) would be obtained on file for rectifying the typographical 
+errors made in the SO/ Contract at the time of issuing SO/ Contract.  
+10.5.2 Arising without any change in scope of work : There would not be any requirement 
+of holding CNC to review the proposed amendments such as revision of DP; limiting/ 
+waiving of LD; admissibility of change in statutory levies/ taxes & duties; revision in 
+minimum wages, FE rate variation, change in item description/part number, part 
+shipment/transshipment/lot size without affecting DP and terms of payment, delivery 
+terms/consignee etc.  
+a) For DP extension ( including ex -post -facto) with imposition of LD: The 
+competent authority for according such approval for procurement cases covered 
+under Appendix A and Appendix B of DFP is given below . The se DP extensions 
+would not require concurrence of Finance . Where DP extension is for a 
+procurement relating to a Project/Programme, extended DP would have to  be 
+limited to sanctioned Project/Programme completion date.  

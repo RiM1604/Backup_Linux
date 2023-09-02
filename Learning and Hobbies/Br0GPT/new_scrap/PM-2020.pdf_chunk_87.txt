@@ -1,0 +1,69 @@
+159 
+ 12.12.2 The EOI will contain the broad specifications and desir ed vendor qualification criteria, 
+i.e., details of the resources desired with the firm in developing the product/component. 
+The interested firms would be asked to submit the details of infrastructure and 
+resources available with them. 
+12.12.3 Interested firms will be allowed to visit the Lab/Estt to see the product/ component 
+required to be developed or to discuss the specifications of the proposed product. This 
+would be indicated in the EOI. 
+12.12.4 The Director of the Lab/Estt would constitute a committee to study desir ed resource 
+details, the details submitted by the firms and discuss the same with firms to fine tune 
+the broad specifications and firm up the vendor qualification criteria for the 
+developmental of product/ component. The committee will also estimate cost and time 
+required to realize the product. This committee will comprise of Chairman, technical 
+expert from a sister Lab/Estt or outside expert from other Govt. Dept./ academic 
+institution, MMG rep. and member secretary from User group. Rep of Finance may be 
+co-opted, if felt necessary in a given case.   
+12.12.5 In addition to above, the other provisions prescribed in the chapter 4 of this Manual will 
+be taken into account for processing of EOI. 
+12.13 REQUEST FOR PROPOSAL (RFP): 
+For developmental/ fabrication contracts, RFP should consist of general information 
+regarding the manner and methodology of bid submission, standard terms and 
+conditions, special terms and conditions for the contract being contemplated, vendor 
+qualification criteria, details of product/component to be developed, evaluation criteria 
+for the bids and template for price bid. The RFP ( DRDO. BM.02) will be prepared and 
+dispatched to all respondents of EOI as per the provisions given in Chapter 6 of this 
+Manual. The applicability of performance security in case of development contracts 
+would be governed as per para 12.11 above. While framing the RFP for developmental 
+contracts, vendor qualification criteria would be given special emphasis, as it is one of 
+the important factors for successful completion of the contract and identification of 
+potential bulk production partner. The bidders will invariably be asked to mention Non-
+recurring Cost (NRE) with appropriate break-up and cost of prototypes explicitly in all 
+cases. 
+12.13.1 Acquiring Manufacturing Drawings and Associated Hardware : To develop an 
+alternate source of supply of an item developed and productionised by the development 
+partner, it is essential that the manufacturing drawings are available with Lab/Estt. 
+Since manufacturing drawings are evolved and finalised, it is likely that the 160 
+ development partner would claim his rights on such drawings and may not agree to part 
+with them. Therefore, suitable clause should be included in the RFP clarifying that 
+manufacturing drawings prepared during the development phase shall be the property 
+of the DRDO/ Ministry of Defence and will be handed over to DRDO wheneve r 
+required. Further, these will also not be used by the development partner for any 
+purpose other than stated in the contract, without the written consent of DRDO. All dies/ 
+tools/die sets/ jigs/ fixtures/ moulds fabricated under the contract which are charged 
+separately will be returned to the Lab/Estt unless specified otherwise in the contract. 
+12.13.2 Return of Documents:  Documents, specifications, drawings issued to development 
+partner(s) or prepared by them will be property of DRDO and the same will be returne d 
+to DRDO on demand. A provision to this effect shall be made in the RFP. A certificate 
+to the effect that required documents have been received in the Lab/Estt would be 
+furnished by the user. Any loss or damage to these documents shall be recovered from 
+the development partner. 
+12.13.3 Apportionment of Quantity : In cases where it is decided to award developmental 
+contracts to more than one development partner, it should be explicitly specified in the 
+RFP. The ratio of splitting of the quantity between various development partners 
+including criteria thereof must be pre-disclosed in the RFP as per provisions of para 
+6.45.1 of this Manual. The apportionment of the quantity would be done subject to the 
+other vendor(s) agreeing to match the negotiated price and terms & conditions of L1. In 
+case of deviation, the full order may be placed on the L1 firm, else alternate source 
+may be explored through separate bidding .  
+12.14 PRE-BID CONFERENCE: 
+In case of turnkey contracts or for development of sophisticated and complex 
+equipment, a suitable provision is to be made in the bidding document for a pre-bid 
+conference for clarifying issues and clearing doubts, if any, about the specification and 
+other technical details projected in the bidding document. The date, time and place of 
+the pre-bid conference must be indicated in the bidding document and should be 
+sufficiently ahead of the bid opening date. 
+12.15 REQUIREMENT OF SAMPL E: 
+Requirement of samples, if any, would be reflected in the RFP along with the manner 
+of their submission. The samples would be taken on no cost no commitment basis. 
+Clarifications where required, would be discussed in the pre-bid conference. 

@@ -1,0 +1,6 @@
+os
+shutil
+PyPDF2
+flask
+farm-haystack
+openai-whisper

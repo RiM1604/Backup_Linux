@@ -1,0 +1,70 @@
+157 
+ 12.7 FABRICATION CONTRACT: 
+Fabrication contract means a one-time contract concluded with a contractor or a firm 
+for fabrication and supply of components, sub- assemblies or an assembly, which are 
+not commercially available, against design drawings/ specifications to be supplied by 
+the Lab/Estt.  
+12.7.1 Fabrication contracts, which do not have elaborate system requirements, test 
+procedures and activity monitoring, can be placed following the normal procedures for 
+supply orders as given in the preceding chapters. Material Management Forms as 
+applicable for supply orders may be used for fabrication contracts with suitable 
+modification wherever required. Any other additional terms and conditions if applicable 
+to the fabrication contract may be included wherever desired. 
+12.8 CFA FOR VARIOUS CONTRACTS: 
+Various types of contracts can be adopted depending upon the nature, complexity and 
+time span of the developmental work/project. Firm-Fixed-Price contracts, Fixed Price 
+Contracts with Price Variation Clause and Fabrication Contracts will be concluded by 
+Lab/Estts as per the delegated financial powers vis-à-vis mode of bidding. Fixed-Price 
+contracts providing for Re-determination of Price, Fixed Price Incentive contracts and 
+Cost Plus contracts will be adopted only with the prior approval of Secretary Defence 
+(R&D ) or higher authorities through DFMM. Concurrence of finance will be taken as 
+per the delegation of financial powers.  
+12.9 COSTING AND TIME ESTIMATION: 
+Cost of developmental/ fabrication contracts will be estimated considering all elements 
+of cost, both Non-Recurring Expenditure (NRE) and prototype costs, systematically as 
+per costing and industrial engineering methods. These methods mainly rely on the 
+information furnished to the cost accountants by the engineers/ scientists through their 
+past experience of having performed similar (or same) task or by their precise 
+estimation of various inputs required to complete the contract, based on the firmed up 
+design drawing/data. The developmental contracts, which are being executed for the 
+first time, may not be amenable to these cost accounting techniques, hence personal 
+experience/ logical assessment/ experience of similar development by other Labs/Estts 
+may be utilized for arriving at approximate cost & time estimate and in achieving 
+optimum value for money when the contracts are concluded. Directors of Lab/Estt may 
+hire services of professional engineering and costing consultants (if desired, whenever 
+in-house costing is inadequate) for proper cost estimation in case of expected high 
+value contracts. 
+12.9.1 In case the developmental contract leads to production, it is expected that per unit 158 
+ production cost should not be more than prototype cost (as per developmental contract) 
+after offsetting inflation. Sometimes, it is seen that firms undercut/ offer discount to 
+become L1 in the developmental phase and later jack up prices during the production 
+phase. Care should be taken by the CFA on the merit of the case to safeguard Govt. 
+interest. 
+12.10 PROCESSING OF DEVELOPMENTAL CONTRACT: 
+Some of the important steps involved in the processing of developmental contract are 
+as follows: 
+a) Firming up of vendor qualification criteria 
+b) Framing and Issue of RFP 
+c) Techno-commercial Evaluation of bids and convening of C NC 
+d) Placement of Contract/ Supply Order 
+e) Post Contract Management 
+12.11 INITIATION & APPROVAL OF DEMANDS:  
+Procedure for initiation and approval of demands for developmental/ fabrication 
+contracts will be as per Chapter 4 of this Manual. There would be no requirement of 
+“Performance Security” for the “Development Contracts” entered into by DRDO. This 
+will apply to “Development Contracts” only, as defined in Para 12.5 above. However, 
+Warranty Bond would continue to be obtained from successful development partner to 
+cover the DRDO interest during the warranty period. 
+12.12 FIRMING UP OF VENDOR QUALIFICATION CRITERIA: 
+Identification of appropriate vendors is a vital step and must be well considered. 
+Labs/Estts may use EOI route for firming up of vendor qualification criteria to find a 
+suitable developmental partner(s) as per procedure mentioned hereunder. 
+12.12.1 For identifying firms willing to participate as developmental partner in respect of 
+different categories/ products/ components, notice inviting Expression of Interest (EOI) 
+to be published on Central Public Procurement Portal (CPP-Portal) and DRDO Website 
+only. A notice calling for EOI/RFI will be issued/ published with “in -principle” approval of 
+CFA / DG Cluster (whichever authority is lower). The minimum number of products/ 
+components required to be submitted by the vendor for evaluation and likely demand 
+for those products/ components for the next two to three years after development may 
+be indicated, if feasible, in th e EOI. The attention of known prospective development 
+partner(s) will also be drawn towards EOI/RFI. 

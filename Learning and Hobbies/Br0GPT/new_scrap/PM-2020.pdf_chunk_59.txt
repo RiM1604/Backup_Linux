@@ -1,0 +1,66 @@
+103 
+ this clause is as under: 
+a) Indigenous Sellers: The payment of bills will be made on submission of the 
+following documents by the Seller to the Buyer 
+(i) Ink-signed copy of Contingent Bill.  
+(ii) Ink-signed copy of Commercial Invoice / Seller‟s Bill.  
+(iii) Bank Guarantee for Advance, if applicable.  
+(iv) Guarantee/ Warranty Certificate.   
+(v) Details for electronic payment viz. Bank name, Branch name and address, 
+Account Number, IFS Code, MICR Number (if these details are not already 
+incorporated in the Contract).  
+(vi) Original copy of the Contract and amendments thereon, if any.  
+(vii) Self certification from the Seller that the  GST/ applicable taxes as received 
+under the contract would be deposited to the concerned taxation authority. 
+(viii) Any other document/ certificate that may be provided for in the Contract.  
+(Note – Lab may specify any other documents required as per need)   
+b) Foreign Sellers:  In case of payment through Letter of Credit (LC), paid shipping 
+documents are to be provided to the Bank by the Seller as a proof of dispatch of 
+goods as per contractual terms/ LC conditions so that the Seller gets payment from 
+LC. The Bank will forward these documents to the Buyer for getting the goods/ 
+stores released from the Port/ Airport. However, where the mode of payment is 
+DBT, the paid shipping documents are to be provided to the paying authority by the 
+Buyer. Documents will include:   
+(i) Clean on Board Airway Bill/Bill of Lading 
+(ii) Original Invoice  
+(iii) Packing List  
+(iv) Certificate of Origin from Seller‟s Chamber of Commerce, if any.  
+(v) Certificate of Quality and year of manufacture from OEM.  
+(vi) Dangerous Cargo Certificate, if applicable.  
+(vii) Insurance Policy of 110% value in case of CIF/ CIP contract  104 
+ (viii) Certificate of Conformity and Acceptance Test at PDI, if any.  
+(ix) Phyto-sanitary/ Fumigation Certificate, if any.  
+(x) Any other documents as provided for in the Contract.” 
+(Note –Lab may specify any other documents required as per need)   
+7.3.11 Exchange Rate Variation (ERV) Clause : To cover the exchange rate fluctuation due 
+to volatile market in a long term contract, it may be necessary to make a provision for 
+such variation in exchange rates. The standard text of this clause is as under: 
+“This clause will be applicable only in case the delivery  period exceeds 12 Months from 
+the Effective Date of the Contract which involves import content (foreign exchange). 
+a) Detailed time schedule for procurement of imported material and their value at 
+the FE rates adopted for the Contract is to be furnished by the Bidder as per the 
+format given below. 
+Year Wise and Major Currency Wise Import Content Break up 
+ 
+ 
+ 
+ 
+. 
+b) ERV will be payable/ refundable depending upon movement of exchange rate 
+with reference to exchange rate adopted for the valuation of the Contract. Base 
+Exchange rate of each major currency used for calculating FE content of the 
+Contract will be the SBI selling rate of the foreign exchange element on the date 
+of the last date of bid submission. 
+c) The base date for ERV would be the  last date of bid submission and variation on 
+the base date will be given up to the midpoint of manufacture unless the Bidder 
+indicates the time schedule within which material will be imported by them. Based 
+on information given above, the cut-off date/dates within the Delivery schedule for 
+the imported material will be fixed for admissibility of ERV. 
+d) ERV clause will not be applicable under following circumstances: 
+(i) Cases where delivery periods for imported content are subsequently to be Year  Total Cost of 
+Material  
+(Import)  FE Content Outflow  
+(Equivalent in Rs. in crores)  
+$ € £ Others  
+      
+      

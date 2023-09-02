@@ -1,0 +1,64 @@
+141 
+ 11 CHAPTER 11  
+SPECIAL FEATURES IN PROCUREMENT FROM ABROAD 
+11.1 GENERAL: 
+Although, proposals for procurement of goods/ services with likely participation of 
+foreign bidders will continue to be processed as per the procedure laid down in the 
+preceding chapters, Labs/Estts are advised to address some special features as 
+explained in this chapter for such procurements .  
+11.2 DEMAND PROCESSING, BIDDING, PLACEMENT OF ORDER & MONITORING: 
+The procedure for demand initiation & approval, RFP & Bid processing, placement of 
+SO/ Contract and monitoring will be as per the guidelines given in preceding chapters 
+of this Manual. However, following additional aspects need to be considered where 
+participation of foreign bidders is anticipated. 
+11.2.1 Foreign bidders will be asked to quote CIF/CIP cost up to a specified place of delivery 
+in addition to the FOB/ FCA (gateway) cost. It would also be clarified that  
+a) CIF/CIP cost is for the purpose of bid evaluation and the Buyer reserves the right 
+to place order on either FOB/FCA (gateway) or CIF/CIP (destination) basis; and 
+b) If the CIF/CIP cost is not indicated, their bid will be loaded by 10% of FOB/FCA 
+cost to arrive at the price for the purpose of bid evaluation. 
+11.2.2 In case the legislation of a country does not permit the OEMs and/or other vendors/ 
+bidders to respond directly, RFP may be issued to the designated agency in that 
+country. 
+11.2.3 Copy of the RFP under open bidding mode may be forwarded to prospective 
+Embassies/ High Commissions in India and Indian Embassies/ High Commissions 
+abroad for wider publicity. The cost of RFP documents will not be insisted upon and left 
+to the discretion of the respective Embassies/ High Commissions abroad. 
+11.2.4 Lab/Estt may seek clarifications, if any, on the bids through correspondence/ fax/ e-
+mail. 
+11.2.5 Generally, foreign bidders do not extend the validity of offer , the bid evaluation, etc. 
+should be done promptly to avoid expiry of quotations and revision of prices. 
+11.2.6 Handling of Reps of Foreign Firm: In certain cases, bids are received directly from OEM 
+and they authorize an individual or firm in India to represent them in TCEC or CNC. In 142 
+ such cases, authorization letter from OEM should be recorded in the minutes of TCEC 
+or CNC meeting and participant should be referred to/ recorded only as rep authorised 
+to attend the meeting on behalf of said OEM and not as Indian Agent. Care should be 
+taken in all such cases that the person authorised to attend the meeting on behalf of 
+OEM is expected to submit clarifications/ revised bid etc., as the case may be, only in 
+the original letter head of the OEM. It is re-emphasized that only Indian Agent enlisted 
+as per para 3.6 of this Manual or 100% subsidiary of OEM in India may submit offer on 
+behalf of OEM if they have been authorised for the same by the OEM. 
+11.2.7 In respect of bids received from abroad, it may not be always possible for the foreign 
+bidders to come for CNC  meeting except for high value items. In such cases, CNC may 
+invite revised best offer with all terms clarified from the lowest bidder through fax/e-mail 
+before finalizing the price. 
+11.2.8 The term of delivery should preferably be decided on FCA/FOB (gateway) basis. 
+However, the Buyer may finalize any other term of delivery on the merit of case as per 
+the INCOTERMS 2020 issued by International Chamber of Commerce (ICC). 
+11.2.9 Confirmed LC as a condition of payment should be avoided as it undermines the 
+credibility of our nationalized banks. 
+11.2. 10 The nature of services to be rendered by Indian agent of OEM/ foreign Sellers, if any, 
+and the commission payable to Indian agent shall be explicitly reflected in the supply 
+order/contract. The commission shall be paid in accordance with para 11.3 of this 
+Manual .  
+11.2. 11 CFA will be determined on the basis of 110% of the negotiated cost to cater for basic 
+customs duty, currency fluctuation, freight and bank charges as applicable. However, 
+should the expenditure exceed this limit, approval of appropriate CFA will be taken at 
+actual. 
+11.2. 12 The letter conveying the expenditure sanction for the foreign procurement should 
+invariably incorporate the total amount to be paid in foreign currency including 
+insurance and freight charges as well as mode of payment (through LC or DBT). 
+11.2. 13 Payments towards training, installation & commissioning and AMC of capital equipment 
+should be explicitly mentioned in the contract/ SO. 
+11.2. 14 Supply orders shall include special instructions, if any, governing packing/ forwarding, 
+insurance, airfreight, transportation, etc.  

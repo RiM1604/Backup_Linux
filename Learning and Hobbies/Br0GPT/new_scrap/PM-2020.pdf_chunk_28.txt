@@ -1,0 +1,43 @@
+41 
+ instead of raising separate case file for every demand of same item. Such demands will 
+be approved by appropriate CFA as per cumulative value and expenditure heads of 
+relevant projects would be indicated in expenditure sanction and accordingly booked to 
+respective project expenditures for accounting purpose. 
+4.14 VALIDITY OF DEMAND APPROVAL: 
+The demand approval accorded by CFA will be issued in the form of an order and will 
+remain valid for one year from the date of issuance unless otherwise specified. The 
+Buyer shall ensure placement of Supply Order (SO) or signing of Contract, as per laid-
+down procedure, within the period of validity; else re-validation of demand would be 
+required. 
+4.15 AMENDMENT OF DEMAND: 
+After demand approval and before issue of RFP if there is any change, the approval of 
+the appropriate CFA as per delegated financial powers will be required.  
+  42 
+ 5 CHAPTER 5  
+PROCUREMENT OF GOODS/SERVICES: WITHOUT BIDDING 
+5.1 GENERAL: 
+Certain goods/ services may be procured without formal bidding process. The different 
+modes of purchase in such cases can be classified as under: 
+a) Govt. e-Marketplace (GeM) 
+b) Petty Purchase 
+c) Minor Purchase through Local Purchase Committee (LPC) 
+d) Purchase using Rate Contract  
+e) Govt. designated Sources 
+f) SWOD 
+5.2 PETTY PURCHASE PROCEDURE: 
+5.2.1 Petty purchase will normally be resorted to for procurement up to the amount specified 
+under Rule 154 of GFR-2017 and as amended from time to time or as per the 
+delegated petty purchase powers in respect of cases mentioned below:   
+a) For small value items/ services. 
+b) For procurement of goods & services of unanticipated/ emergent/ breakdown 
+nature required to be made at a short notice. 
+c) To meet requirements of parts/ components & services for trials of major 
+equipment and systems at outstation. 
+5.2.2 CFA will ensure that splitting of demands is avoided and provisions of purchase 
+preference as per Public Procurement (Preference to Make in India), Order-2017 as 
+amended, issued by DPIIT/ Ministry of Commerce and Industry are followed. 
+5.2.3 In the following types of cases, even though the value does not exceed petty purchase 
+limit, a regular supply order will be placed: 
+a) Foreign purchase, 
+b) Where the sale procedure of a particular firm does not provide for cash sale, and  
+c) Where the nature of transaction makes it necessary to issue a regular supply order. 

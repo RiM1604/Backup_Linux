@@ -1,0 +1,66 @@
+53 
+ d) Items to be purchased from a Government specified source.  
+e) Where any other m ode of bidding is not considered appropriate in the interest of 
+national security.  
+f) For technology intensive Projects/Programmes / R&D activities in progress, the 
+materials/ components required are available only with a few qualified 
+manufacturers/ vendors of repute. In such cases, flexibility will be allowed to 
+effect purchases on SBM. 
+6.8 AWARD OF PROPRIETARY ARTICLE CERTIFICATE (PAC) STATUS: 
+6.8.1 PAC status can be awarded under the following conditions: 
+a) Certain goods/ services are proprietary products of a particular manufacturing firm 
+having the Intellectual Property Rights (IPR) and the detailed specifications are not 
+available with others to manufacture/provide the same. Such goods/ services have 
+necessarily to be obtained from the Original Equipment Manufacturer (OEM) or its 
+sole authorized dealer/ stockist/ distributor on the basis of the information provided 
+by the OEM. A PAC may be issued in favour of such OEM as per format 
+DRDO.DM.02 , on the advice of the competent technical experts (from within 
+Lab/Estt or outside). 
+b) PAC status can be awarded for the developed stores to the firm selected and 
+qualified as development partner in execution of a development contract when 
+associated subsequently for fabrication/ up-gradation/ modification thereof. Orders 
+will be placed on PAC basis till such time an alternative source is developed. 
+c) PAC status can also be awarded to source services/ spares/ maintenance of 
+equipment from OEM/ authorized dealer. 
+6.8.2 Caution to be exercised while granting PAC : PAC bestows monopoly and obviates 
+competition. Hence, PAC status should be granted only after careful consideration of all 
+factors like fitness, availability, standardization and value for money. The spares should 
+be sourced from OEM or OEM approved/ recommended manufacturers/ dealers only in 
+order to make the OEM responsible for the malfunctioning of the main equipment in 
+which the spares have been fitted. 
+6.8.3 Authority for Award/ Cancellation of PAC Status :  At the time of award of PAC 
+status to a firm, the concurrence of the finance shall be taken. The general declaration 
+of PAC status would be approved at the minimum level of Lab Director/ Programme 
+Director with the concurrence of Integrated Finance. The PAC status, once granted, wil l 54 
+ remain valid for two years from the date of issue unless cancelled earlier by the 
+Competent Authority. The PAC award can be cancelled by the issuing authority in 
+consultation with their Integrated Finance.  
+6.9 PROCUREMENT ON PBM BASIS: 
+6.9.1 Procurements on PBM basis will be made from firms awarded with PAC status or their 
+sole distributor on the following conditions: 
+a) Only a particular firm is the manufacturer of the required goods/ services. 
+b) In execution of a development contract from the firm selected and qualified as 
+development partner when associated subsequently for fabrication/ up-gradation/ 
+modification thereof till such time an alternative source is developed.  
+c) In order to ensure compatibility of spare parts/ components with the existing sets of 
+equipment as per the advice of the competent technical experts. 
+d) When there is a need for standardization of machinery and equipment with existing 
+holding. 
+e) Repair and servicing of equipment purchased may be got done through the OEM 
+approved service provider.  
+6.9.2 In cases, where OEM has more than one authorized dealers/ stockists/ distributors/ 
+service providers, orders would be placed on them on competitive basis. The CFA for 
+such purchases would, however, be determined in accordance with PAC mode of 
+bidding.  
+6.10 EARNEST MONEY DEPOSIT (EMD)/ BID SECURITY: 
+EMD, also known as Bid Security, is taken to safeguard against withdraw al/ alteration 
+of bid by the bidder during its validity. Requirement of EMD prevents non-serious 
+vendors from making infructuous offers. All un-registered bidders responding to RFP 
+will be required to furnish EMD or a Bid Security Declaration in lieu of EMD for an 
+amount as indicated in the RFP. In the two bid system, EMD would be deposited along 
+with techno-commercial bid. 
+6.10.1 EMD will be a fixed amount between 2% to 5% of the estimated cost of the proposed 
+procurement, suitably rounded off. The following organizations/ firms are exempted 
+from submission of EMD: 
+a) Bidders registered with DRDO, Min of Defence, NSIC. 
+b) DPSUs, Other Govt. Organizations. 

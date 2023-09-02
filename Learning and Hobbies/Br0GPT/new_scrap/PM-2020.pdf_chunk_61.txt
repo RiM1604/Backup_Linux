@@ -1,0 +1,64 @@
+107 
+ Sl. No.  Description of Store(s)  Qty. Unit Cost  Total Cost  
+     
+ 
+Free Issue of Material (FIM) as raw material :  FIM is a  government property and will 
+be secured through , a comprehensive insurance cover (for transportation and storage 
+period) taken by the Lab/Estt or Supplier through Nationalized Insurance Agency or 
+their subsidiaries. If insurance is taken by the Supplier, the insurance charges will be 
+reimbursed by the Lab/Estt at actuals.   
+7.3.16 Terms of Delivery : Terms of delivery plays direct role in determining cost of the 
+contract/ SO. The standard text of this clause is as under: 
+a) For Foreign Bidder:  Foreign bidders are required to quote both on CIF/CIP 
+(destination) and FCA/FOB (Gateway) basis. 
+b) For Indigenous Bidder:  The delivery of goods shall be on FOR (destination) 
+basis. 
+7.3.17 Packing and Marking Instructions : Following clause shall be retained in the RFP: 
+a) The Seller shall provide packing and preservation of the equipment and 
+spares/goods contracted so as to ensure their safety against damage in the 
+conditions of land, sea and air transportation, transhipment, storage and weather 
+hazards during transportation, subject to proper cargo handling. The Seller shall 
+ensure that the stores are packed in containers, which are made sufficiently strong. 
+The packing cases should have provisions for lifting by crane/ fork lift truck. Tags 
+with proper marking shall be fastened to the special equipment, which cannot be 
+packed. 
+b) The packing of the equipment and spares/goods shall conform to the requirements 
+of specifications and standards in force in the territory of the Seller‟s country.  
+c) A label in English shall be pasted on the carton indicating the under mentioned 
+details of the item contained in the carton. The cartons shall then be packed in 
+packing cases as required. 
+(i) Part number : 
+(ii) Nomenclature : 
+(iii) Contract annex number : 
+(iv) Annex serial number : 108 
+ (v) Quantity contracted : 
+d) One copy of the packing list in English shall be inserted in each cargo package, 
+and the full set of the packing lists shall be placed in case No.1 painted in a yellow 
+colour. 
+e) The Seller shall mark each package with indelible paint in English language as 
+follows:- 
+(i) Contract No. __________________________________  
+(ii) Consignee ____________________________________  
+(iii) Port / airport of destination _______________________ 
+(iv) Ultimate consignee ________________________ _____  
+(v) Package No. ________________________ __________  
+(vi) Gross/net weight  ________________________ ______  
+(vii) Overall dimensions/volume ______________________ 
+(viii) The Seller‟s marking _______ ____________________  
+f) If necessary, each package shall be marked with warning inscriptions: <Top>, <Do 
+not turn over>, category of cargo etc. 
+g) Should any special equipment be returned to the Seller by the Buyer, the latter 
+shall provide normal packing, which protects the equipment and spares/goods from 
+damage or deterioration during transportation by land, air or sea. In such case the 
+Buyer shall finalize the marking with the Seller.  
+7.3.18 Inspection Instructions : Detailed procedure for following inspection (applicable) to be 
+spelt upfront in the RFP: 
+a) Raw material inspection 
+b) Part inspection  
+c) Stage/Subsystem inspection 
+d) Pre-Delivery Inspection 
+e) Factory Acceptance Test 
+f) Post Delivery inspection on receipt of store 
+g) Inspection Authority:  The Inspection will be carried out by a representative of the 
+Lab/Estt duly nominated by the Director.  
+(The Lab shall choose clauses as applicable and provide detailed procedure for 

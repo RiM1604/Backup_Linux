@@ -1,0 +1,71 @@
+111 
+ (ii) Breakdown Maintenance Service:  In case of any breakdown of the 
+equipment/system, on receiving a call from the Buyer, the Seller is to 
+provide prompt maintenance service to make the equipment/system 
+serviceable.   
+c) Response Time:  The response time of the Seller should not exceed 
+_______hours / days from the time breakdown intimation is provided by the Buyer.  
+d) Serviceability of ___% per year is to be ensured. This amounts to total maximum 
+downtime of ___days per year. Also un-serviceability should not exceed ___days at 
+any given time. Total down time would be calculated at the end of the year. If 
+downtime exceeds permitted limit, LD/ Extension/ Termination may be considered 
+as per merit of the case as decided by the Buyer.  
+e) Technical Documentation: All necessary changes in the documentation 
+(Technical and Operators Manual) for changes carried out on hardware and 
+software of the equipment will be provided.  
+f) During the AMC period, the Seller shall carry out all necessary servicing/repairs to 
+the equipment/system under AMC at the current location of the equipment/system. 
+Prior permission of the Buyer would be required in case certain components/sub 
+systems are to be shifted out of location. On such occasions, before taking out the 
+goods or components, the Seller will give suitable bank guarantee to the Buyer to 
+cover the estimated current value of items being taken out of location. 
+g) Period of AMC may be extended as per mutual agreement subject to satisfactory 
+performance. 
+h) The Buyer reserves the right to terminate the maintenance contract at any time 
+without assigning any reason whatsoever, after giving a notice of ___ months. The 
+Seller will not be entitled to claim any compensation against such termination. 
+However, while terminating the Contract, if any payment is due to the Seller for 
+maintenance services already performed in terms of the Contract, the same would 
+be paid as per the Contract terms. 
+7.3.24 Price Variation (PV) Clause : Generally, the contract should be entered with a fixed 
+and firm price. However, in cases, where it is required to enter into a contract with price 
+variation clause, following clause may be incorporated in the RFP: 
+a) “(Applicable only if DP is more than 18 Months) – A sample clause is indicated 
+below for inclusion in RFP. 
+The formula for Price Variation should ordinarily include a fixed element, a 112 
+ material element and a labour element.  The figures representing the material 
+element and the labour element should reflect the corresponding proportion of 
+input costs, while the fixed element may range from 10 to 25%. That portion of 
+the price represented by the fixed element will not be subject to variation.  The 
+portions of the price represented by the material element and labour element will 
+attract Price Variation. The formula for Price Variation will thus be: 
+𝑃1 = 𝑃0  𝐹+𝑎 𝑀1
+𝑀0 + 𝑏 𝐿1
+𝐿0 + ………. − 𝑃0  
+Where  
+P1 : Adjustment amount payable to the Seller (a minus figure will 
+indicate a reduction in the Contract Price)  
+P0 : Contract Price at the base level  
+F : Fixed element not subject to Price Variation   
+a : Assigned percentage to the material element in the Contract 
+Price  
+b : Assigned percentage to the labour element in the Contract Price  
+L0 : Wage indices at the base month and year  
+L1 : Wage indices at the month and year of calculation  
+M0 : Material indices at the base month and year  
+M1 : Material indices at the month and year of calculation  
+ 
+If more than one major item of material is involved, the material element can be 
+broken up into two or three components such as Mx, My, Mz . Where price 
+variation clause has to be provided for services (with insignificant inputs of 
+materials) as for example, in getting technical assistance normally paid in the 
+form of per diem rate, the price variation formula should have only two elements, 
+viz. a high fixed element and a labour element. The fixed element can in such 
+cases be 50% or more, depending on the mark-up by the seller of the per diem 
+rate vis-à-vis the wage rates.    
+b) Following conditions would be applicable to price adjustment: 
+(i) Base date shall be last date of bids submission.  
+(ii) Date of adjustment shall be midpoint of manufacture.  
+(iii) No price increase is allowed beyond original Delivery Period unless the 
+delay is attributable to the Buyer or Force Majeure.  
+(iv) Total adjustment will be subject to maximum ceiling of ____%. 

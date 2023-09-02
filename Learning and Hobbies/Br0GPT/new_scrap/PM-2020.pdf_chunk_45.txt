@@ -1,0 +1,68 @@
+75 
+ c) Demand approval by CFA 
+d) Report of TCEC with technical & commercial CSBs 
+e) Other briefing papers, if any 
+6.40.1 The member secretary will issue notice, indicating date/ time and venue for scheduling 
+of the meeting. He will compile and send agenda papers, duly supported by documents 
+to all members so as to reach them at least 3 days in advance. 
+6.40.2 All qualified bidder(s) will be informed well in advance to enable them to be present on 
+the day of price bid opening/ CNC meeting. 
+6.41 GUIDELINES FOR CONDUCTING CNC  MEETING: 
+6.41.1 Price Reasonableness : The basic objective of CNC is to establish reasonableness of 
+price being paid by the Buyer. This is a complex task and many factors need to be 
+considered. Detailed guidelines for determining the reasonable cost are given in 
+Chapter 8 of this Manual .  
+6.41.2 Scrutiny by CNC : In order to derive maximum advantage for successful materialization 
+of the procurement within time schedule at the most favourable rate and payment 
+terms, the CNC  will examine the following points before opening the price bids: 
+a) Description of the item and basis of estimation. 
+b) If requirement is for project, PDC of the project. 
+c) Validity of bids. 
+d) Registration status of Indian agent where required, commission payable and 
+currency in which payable. 
+e) Warranty period  
+f) Payment terms. 
+g) Delivery period .  
+h) Other commercial terms e.g. taxes and duties, packing and forwarding charges, 
+mode of dispatch, transit insurance cover, place of delivery, etc 
+i) Any other point(s) highlighted by TCEC for CNC.  
+6.41.3 Opening of Price Bids : The price bids of the technically accepted bids will be opened 
+in front of rep of bidders present. Such opening of price bids should only be done when 
+the CNC is fully convinced that no issues are left which need to be settled prior to 
+opening of bids. All opened price bids will be signed by the CNC  members. 76 
+ 6.41.4 Comparative Statement of Bids (CSB) for CNC Cases : The comparative statement 
+of bids should be prepared with due care showing each element of cost (basic cost, 
+taxes, levies, etc.) separately for each bid. The CSB will be as per the format given at 
+DRDO.BM.06 The CSB will indicate all details of offers, i.e., nomenclature, price, 
+payment terms, statutory levies, duties, insurance, packing & forwarding charges, 
+installation & commissioning charges, training charges etc., as given in the bids. In 
+case of variation in payment terms quoted by the bidders, the Net Present Value ( NPV) 
+method of evaluation may be followed for purposes of comparison as indicated in RFP. 
+For a fair comparison and to determine the real cost of procurement, details as given in 
+the bids such as delivery ex-godown or FOR destination, transportation, inspection 
+costs etc. will be reflected in the CSB. In case cash flow involves more than one 
+currency, these should be brought to a common denomination in Rupees by adopting 
+exchange rate as per para 8.3.2 of this Manual.   The CSB should be prepared after 
+opening of the price bids and will be vetted by the finance rep for its correctness. The 
+CSB will be signed by the member secretary and finance member. Assessment of L1 
+will be done as per the criteria stated in the RFP. 
+6.42 COMMERCIAL EVALUATIO N: 
+Evaluation of price bids is the core activity in any purchase decision. If the correct 
+evaluation of price bids is not carried out as per the criteria incorporated in the RFP, 
+purchase decision may become deficient and faulty. Detailed guidelines on 
+establishing reasonability of prices and ranking of bids are given in Chapter 8 of this 
+Manual. CNC  will also take into account the provisions of purchase/ price preference 
+provided in the RFP in terms of policy directives issued by the Govt. from time to time. 
+6.43 COMMERCIAL NEGOTIATIONS: 
+It is not necessary to hold commercial negotiations in each case, particularly in open 
+and limited mode of bidding, where the response has been substantial and the L1 price 
+is found to be very close to the reasonable price, provided such assessment had been 
+carried out prior to opening of the price bids. However, commercial negotiation may 
+become necessary to ensure that the interest of the State is fully protected and the 
+price paid is reasonable. Commercial negotiations are invariably conducted in case of 
+single source situations, including PAC cases, or when price is considered high with 
+reference to assessed reasonable price, irrespective of the mode of bidding. Such 
+negotiations should be conducted by CNC or a duly appointed committee, which 
+should invariably include a finance member, unless the negotiation is carried out by the 
+committee CFA itself. 
+6.43.1 The cost of post-warranty maintenance contracts for high value complex equipment will 

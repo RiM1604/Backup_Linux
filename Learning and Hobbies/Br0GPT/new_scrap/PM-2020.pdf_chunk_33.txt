@@ -1,0 +1,65 @@
+51 
+ Sl. No.  Mode of Access to RFP  Price ( Rs. ) 
+1 If downloaded from website  Free of cost  
+2 If supplied by Lab/Estt  Rs. 500  
+ 
+6.4.5 OBM will also be followed for items where limited bidding, irrespective of its estimated 
+value, has not resulted in creation of expected competition and getting the best offer. 
+6.5 LIMITED BIDDING MODE (LBM): 
+This mode of bidding may be chosen where estimated value of goods and services to 
+be procured is up to Rs. 25 lakh and Rs. 10 lakh respectively . RFP will be floated to 
+more than three firms registered for that category of goods/ services with the Lab/Estt . 
+In case the number of firms registered with the Lab/Estt is less than four, the central 
+database of registered vendors on DRONA would be referred for identification of other 
+potential sources. In exceptional cases, CFA may consider issuance of RFP to lesser 
+number of potential bidders after recording the reasons in file. The following aspects 
+will be kept in mind while issuing RFP: 
+6.5.1 Vendor selection for the purpose of LBM must be done with utmost diligence so as to 
+give fair opportunity to the vendors who are registered with R&D Labs/Estts and the 
+Government designated agencies as specified by Govt. of India/DRDO HQrs from time 
+to time.  
+6.5.2 Un-registered vendors may also be considered for the purpose of LBM with the explicit 
+approval of CFA. However, their registration would be mandatory before placement of 
+order on them .  
+6.5.3 RFP documents are not transferable. 
+6.5.4 Help of Foreign Embassies in India and Indian Embassies/ Defence Attaché abroad 
+may be sought, if required, for the procurement of imported items.  
+6.5.5 Special circumstances for LBM : Purchase through LBM may also be adopted even 
+where the estimated value of the procurement is more than the specified values with 
+the approval of CFA under the following circumstances: 
+a) When the sources of supply are definitely known/ available (established through 
+OBM/ EOI in last one year) and possibility of fresh sources beyond these is remote. 
+b) When it is not in the public interest to call for open bidding due to reasons of 
+security or when superior authorities have issued specific instructions in this 52 
+ regard. 
+c) When Government policies designate specific agencies. 
+d) When the requirement of stores is urgent and reasons for such urgency are 
+justified by the indenter. Urgency of such cases will be specifically monitored till the 
+placement of order.  
+6.5.6 Demand approval accorded by CFA would include the names of the vendors to whom 
+the RFP will be sent. 
+6.5.7 RFP will be issued to all vendors as approved by CFA. 
+6.5.8 e-Publishing of RFP on LBM on the CPP Portal will be ensured unless approval of the 
+Secretary Defence R&D has been obtained with the concurrence of Addl. FA (R&D) & 
+JS. Unsolicited offers received as a result of e-publishing would not be considered for 
+the instant procurement but the response would be given to the Vendor Registration 
+Committee for consideration for future procurements. 
+6.6 INADEQUATE RESPONSE IN OBM AND LBM: 
+Quotations received (in single bid system) or technically qualified (in two bid system) 
+from at least three firms are considered adequate to process the procurement. Receipt 
+of less than three quotations (in single bid system) or technically qualified quotes (in 
+two bid system) will be considered as inadequate response. Such cases would be 
+dealt as per para 6.30 of this Manual. 
+6.6.1 In cases where RFP on LBM was issued to only two potential bidders with the prior 
+approval of CFA, quotations received (in single bid system) or technically qualified (in 
+two bid system) from only one firm will be considered as inadequate response and 
+would be dealt as per para 6.30 of this Manual. 
+6.7 SINGLE BIDDING MODE ( SBM ):  
+Procurement from a single source may be resorted to with the approval of CFA as per 
+delegation of financial powers. In such cases, detailed justification as per format 
+DRDO.DM.03  will be submitted for the approval of CFA. Procurement on SBM may be 
+resorted to under the following circumstances: 
+a) In case of emergency. 
+b) On account of operational/ technical requirement. 
+c) Non-proprietary items, when only single response is available, in spite of 
+competitive bidding. 

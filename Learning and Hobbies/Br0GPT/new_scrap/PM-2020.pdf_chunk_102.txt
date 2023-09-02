@@ -1,0 +1,52 @@
+189 
+ Exporter on presentation of documents  
+6)  Reimbursing Bank  - Bank which reimburses the money to the 
+negotiating bank  
+1.3 TYPES OF LC: 
+1.3.1 Following types of LC may be used by the Buyer for making payment to the Seller as per 
+the contractual terms and conditions:  
+a) Irrevocable LC  
+b) Confirmed LC  
+c) Revolving LC  
+d) Divisible LC 
+1.3.2 Irrevocable LC :  A credit in which the Issuing Bank gives a definite, absolute and 
+irrevocable undertaking to honour Buyer’s obligations, provided beneficiary complies with 
+all terms and conditions, is known as an irrevocable letter of credit. It implies that LC 
+cannot be amended, cancelled or revoked without the consent of all parties. All LCs are 
+deemed to be irrevocable.  
+1.3.3 Confirmed LC : A confirmed LC is one in respect of which another Bank in the 
+beneficiary's country adds its confirmation at the request of the Issuing Bank.  This 
+undertaking of the confirming Bank to pay/ negotiate/ accept is in addition to the 
+undertaking of the issuing bank. This is an added protection to the beneficiary.   
+1.3.4 Revolving LC :  In such LC, the amount of credit is restored, after it has been utilized, to 
+the original amount thus obviating the necessity of opening a fresh LC for each dispatch/ 
+shipment. Revolving LC is used when the Buyer is to receive partial shipment of goods at 
+specific intervals over a long duration.  
+1.3.5 Divisible LC : A LC could be divisible or non-divisible. Divisible LC could be opened when 
+more than one beneficiary is allowed and payment has to be made as per the 
+consignment. 
+ 190 
+ 1.4 ESSENTIAL ELEMENTS OF LC: 
+The LC shall be opened as per the proforma DRDO.LC.01 and essential elements as 
+mentioned below are to be clearly stipulated while opening a LC:  
+a) Type of LC  
+b) Names & addresses of applicant and beneficiary  
+c) Beneficiary’s bank details  
+d) Amount of credit and currency  
+e) Validity of LC  
+f) Latest shipment date (delivery date as per contract)  
+g) Basis of delivery (FOB/FCA/CIP/CIF)  
+h) Supply Order / Contract No. and date  
+i) Shipment from . To   
+j) Details of consignee and/or ultimate Consignee  
+k) Acceptability of part shipment  
+l) Acceptability of trans-shipment  
+m) List of documents required from beneficiary for release of payment  
+n) Applicability and conditions of LD Clause  
+1.5 SPECIAL INSTRUCTIONS/ PROCEDURE FOR OPENING OF LC AND PAYMEN T 
+MECHANISM: 
+1.5.1 Process for opening of LC will be initiated by the Lab/Estt, as per the schedule of opening 
+of LC in the contract, after receipt of the following documents: 
+a) Performance security deposit; 
+b) Export clearance, if applicable; 
+c) Order acknowledgement; 

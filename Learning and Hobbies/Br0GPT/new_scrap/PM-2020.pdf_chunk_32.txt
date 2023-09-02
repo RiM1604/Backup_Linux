@@ -1,0 +1,65 @@
+49 
+ 6 CHAPTER 6  
+BIDDING PROCESS 
+6.1 GENERAL: 
+Goods/ services should be procured by adopting one of the modes of bidding given in 
+this chapter except for the cases which are already covered under Chapter 5 of this 
+Manual. 
+6.1.1 Restrictions on Global Tender Enquiry (GTE) costing up to Rs 200 crore : 
+No Global Tender Enquiry (GTE), as defined under  Rule 161 (iv) (a) of GFR-2017, shall 
+be invited for tenders upto Rs 200 crores or such limit as may be prescribed by the 
+Department of Expenditure from time to time. For tenders below such limit, in exceptional 
+cases, where the procuring entity feels that there are special reasons for GTE, it may 
+submit its detailed justifications to DRDO Hqrs. Subsequently, DRDO Hqrs would seek 
+prior approval for relaxation to the above rule from the Secretary (coordination), Cabinet 
+Secretariat or from any other Competent Authority specified by the Department of 
+Expenditure. 
+6.1.2 Participation of bidders whose country shares land border with India : 
+Participation of any bidder from a country which shares a land border with India will be 
+governed as per Rule 144(xi) of GFR- 2017 and subsequent orders issued by the 
+Department of Expenditure in this regard. 
+6.2 SINGLE/ TWO BID SYSTEM:  
+6.2.1 Single Bid System : For Commercial-Off- The-Shelf (COTS) general use items where 
+specifications are well established and technical clarifications are not required, single 
+bid system may be opted. In this system, techno-commercial and price bids are invited 
+in a single envelope. No sample should be called for in single bid system at the RFP 
+stage. 
+6.2.2 Two Bid System : For high value plant and machinery, technically complex equipment 
+and turnkey projects which need a thorough technical evaluation, two bid system may 
+be followed. In this system, the bids are invited in two envelopes sealed in single cover, 
+as techno-commercial bid and price bid respectively, as follows: 
+a) Techno-commercial bid consisting of all technical details along with commercial 
+terms & conditions; and  
+b) The price bid indicating prices of items mentioned in techno-commercial bid and 50 
+ cost break up as indicated in the RFP .  
+6.2.3 In a two bid system, only techno-commercial bid is opened at the time of opening of 
+bids. Price bids are opened only for those bidders who qualify the technical scrutiny as 
+per the RFP. 
+6.3 MODES OF BIDDING: 
+Generally the following modes of bidding will be followed for obtaining bids: 
+a) Open Bidding Mode (OBM) 
+b) Limited Bidding Mode (LBM) 
+c) Single Bidding Mode (SBM) 
+d) Proprietary Bidding Mode (PBM) 
+6.4 OPEN BIDDING MODE (OBM): 
+Open Bidding Mode (OBM) should be the preferred mode for procurement of common 
+use item, with generic/ commercial specifications, which are readily available off-the-
+shelf in the market from a wide range of sources.  All procurements of goods and 
+services where estimated cost is more than Rs. 25 lakh and Rs. 10 lakh respectively 
+should generally be made through this mode subject to exceptions provided in this 
+Chapter. However, OBM may also be resorted to in case of procurements where 
+estimated cost is less than the values specifi ed above if considered advantageous. 
+6.4.1 Open Bidding Mode involves wide publicity through advertising media to ensure 
+extensive competition. RFP will necessarily be hosted on Central Public Procurement 
+(CPP) Portal and DRDO website only. 
+6.4.2 Simultaneously, attention of renowned prospective bidders may also be drawn to the 
+RFP notification to enable them to offer the quotations after obtaining the RFP 
+documents from the Lab/Estt concerned or website. 
+6.4.3 In case a need is felt, Lab/Estt may also approach Foreign Embassies in India and 
+Indian Embassies/ Defence Attaché abroad by sending them a copy of RFP notification 
+with the list of prospective bidders to seek offers/ assistance through their liaison. 
+6.4.4 In case the RFP is downloaded from the website by the bidder, it will not be charged. 
+However, if the bidder wants it from the Lab/Estt, it will be supplied at rates tabulated 
+below which include postal charges. RFP will be supplied free of cost to MSEs 
+registered with National Small-Scale Industries Corporation (NSIC) and other such 
+agencies as decided by the Govt. Lab/Estt will not be responsible for any postal delay.  

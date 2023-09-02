@@ -1,0 +1,55 @@
+191 
+ 1.5.2 Documents required for Opening of LC : Lab/Estt will process the case for the item-wise 
+release of FE before opening of LC in the contract. The following documents are required 
+by issuing bank through paying authority for opening of LC: 
+a) Forwarding letter 
+b) Request letter for opening of LC, as per DRDO.LC.01 , with the condition that the 
+Bank Release Order (BRO) will be issued by bank within 24 hrs. 
+c) Form No. 2 - Application and guarantee, as per DRDO.LC.02 (contains the details of 
+documentary evidences required) 
+d) Declaration cum Undertaking (under section 10 (5), chapter III of the FEMA, 1999) 
+e) Application for remittance in foreign currency (Form A-1/A-2 (Stores/ Services)), as 
+per format DRDO.LC.03  and DRDO.LC.04   
+f) Copy of Contract and amendments thereof 
+Five sets of above documents will be prepared by the Lab/Estt. Three sets will be 
+forwarded to the issuing bank, one set will be forwarded to the paying authority and one 
+will be retained by the Lab/Estt in the procurement file. 
+1.5.3 Opening of LC : subsequently, the Issuing Bank establishes the LC with a unique LC 
+number allotted to each payment case and intimates the paying authority and the Lab/Estt. 
+about the opening of LC. 
+1.6 RELEASE OF PAYMENT AGAINST LC: 
+1.6.1 Paid shipping documents are required to be provided to Advising Bank/ nominated 
+Negotiating Bank by the Seller, as proof of dispatch of goods as per contractual terms, to 
+get his payment against the LC. The Negotiating Bank forwards one set each of these 
+documents to the Issuing Bank and the Landing Officer/ rep. of Consignee, as specified in 
+the Contract, for getting the goods/ stores released from the Port/ Airport. The documents, 
+the details of which should be specified in the contract, include:  
+a) Full set of clean on board Air Way Bill (AWB)/ Bill of Lading (B/L) in original  
+b) Original invoice in triplicate (ink-signed) 
+c) Item-wise packing list  192 
+ d) Certificate of country of origin of goods  
+e) Certificate of quality and current manufacture from OEM  
+f) Dangerous cargo certificate, if any.  
+g) Insurance policy of 110% if CIF/CIP contract, wherever applicable.  
+h) Certificate of conformity & acceptance test at PDI/FAT, signed by Buyer's and 
+Seller's QA Dept., if provided in contract 
+i) Phyto-sanitary/Fumigation certificate, if applicable 
+j) Warranty certificate, if applicable  
+k) Any other document as mentioned in LC 
+1.7 AMENDMENT OF LC:  
+Any amendment to LC requires consent of both the parties. Director of Lab/Estt. is 
+authorised to accord approval for processing the case for amendment of LC. However, in 
+case, where amendment to LC requires amendment to the contract, prior approval of 
+amending the contract shall be obtained by the Lab/Estt. from Competent Authority/ CFA, 
+as applicable. The process for amendment of LC would be initiated after ensuring the 
+followings:  
+a) Request from the Seller for amendment of LC 
+b) Re-confirmation regarding continuing availability of funds for releasing payment.  
+c) Commensurate extension, if any, of BG by the Seller.  
+d) The onus of bearing charges for LC extension would be on the Seller or the Buyer 
+depending upon the one who seeks/ is responsible for the extension. 
+1.7.1 Documents required for Amendment of LC : All cases for LC amendment would be 
+routed through the paying authority to the issuing bank along with the following documents:   
+a) Forwarding letter 
+b) Vendor’s request for LC amendment  
+c) Amendment to contract indicating the required DP, LD applicability 

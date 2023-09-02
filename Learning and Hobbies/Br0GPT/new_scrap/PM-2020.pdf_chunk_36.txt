@@ -1,0 +1,68 @@
+57 
+ access to bidders. 
+6.13 PREPARATION OF THE REQUEST FOR PROPOSAL:  
+Request For Proposal (RFP) is the most important document in the procurement 
+process. The RFP will be prepared by MMG with due care and should contain 
+complete details of the items or services required, qualification criteria for vendors 
+wherever applicable, standard terms & conditions, special terms & conditions, 
+evaluation criteria, price bid format and clear instructions for submission of bids. MMG 
+may consult Indenter and Quality Assurance Cell (QAC) of the Lab/Estt, wherever 
+required, while finalizing the RFP. 
+6.13.1 All RFPs must invariably carry a clause that the Government reserves the right to 
+cancel the procurement process at any stage and accept or reject any bid, fully or 
+partially, without assigning any reasons.  
+6.13.2 RFP should also specify that Indian bidders should quote only in Indian currency and 
+foreign bidders may quote in a currency, specified in the RFP, with the understating 
+that payment in foreign currency is subject to regulations by the Reserve Bank of India. 
+6.13.3 The RFP should ask the foreign bidder to quote the FOB/ FCA cost. However, for the 
+purposes of comparison of bids, the foreign bidders will also be asked to quote CIF/ 
+CIP cost up to a specified place of delivery. It would also be clarified that if the CIF/ CIP 
+cost is not indicated, their bid will be loaded by 10% of FOB/ FCA cost to arrive at the 
+CIF/ CIP price for purpose of bid evaluation. Quotation from Indian bidder shall be 
+sought on FOR (destination) basis. 
+6.13.4 No preferential terms and conditions will be indicated in the RFP for any category of 
+bidders except as provided by Govt. orders/instructions issued from time to time. 
+6.13.5 The evaluation/ loading criteria with respect to important terms having financial 
+implications like payment terms etc. need to be specified in unambiguous terms so that 
+the evaluation of bids after opening of bids could be made in a transparent manner 
+without any subjectivity.  
+6.14 FORMAT OF RFP:  
+The suggested format for the RFP for procurement of goods / services is as per 
+DRDO. BM.02. The specimen format is based on various instructions contained in this 
+Manual. The RFP consists of following seven parts:  
+6.14.1 Part I  contains General Information and Instructions for the Bidders about the RFP 
+such as the time, place of submission and opening of bids, validity period of bids, etc.  58 
+ 6.14.2 Part II  contains Standard Terms and Conditions of RFP which have legal implications 
+and will form part of the contract/ supply order with the successful Bidder(s). Therefore, 
+neither deviation from the text given in the clauses nor deletion of any of these clauses 
+should be admitted. In case a deviation from these clauses has to be considered/ 
+allowed, approval of DRDO HQ will be required. 
+6.14.3 Part III  contains Special Terms and Conditions applicable to this RFP and which are 
+supplementary conditions applicable to a specific RFP. A conscious decision needs to 
+be taken to incorporate the relevant clauses from this set. The wordings of these 
+clauses can also be appropriately modified to suit a particular case.  These conditions 
+will also form part of the contract with the successful bidder(s). 
+6.14.4 Part IV  contains Vendor Qualification Criteria such as minimum level of experience, 
+past performance, technical capability, manufacturing facilities etc. to be met by the 
+bidders. This part is case specific and should be included only if required. This part is 
+not normally recommended for the procurement of Commercial-Off- The-Shelf (COTS) 
+items. It may be invoked with the approval of CFA for large works, major plants and 
+machinery, complex information technology systems, medical equipment, sophisticated 
+weapon systems, telecom equipment and other special goods. In the absence of this 
+part, no vendor would be disqualified on the basis of capacity/ capability. 
+6.14.5 Part V  contains Details of the store(s)/ service(s) required e.g. Technical Specifications, 
+Delivery Period, Mode of Delivery, Consignee Details etc.  
+6.14.6 Part VI  contains Evaluation Criteria of bids which can be suitably amplified/ modified to 
+suit the specific requirements of each case. 
+6.14.7 Part VII  contains Format of Price Bid which can be set to get the desired cost break-up 
+as per requirements. All bidders will be requested to indicate time-wise and currency-
+wise amount required as per the price bid in the given below. In case, a bidder does not 
+provide time-wise cash flow details in the price bid, the amount quoted in the price bid 
+will not be discounted for comparison purposes. 
+Time  Currency   
+Total  
+Cash  
+Flow US Dollar  Euros  Pound  
+Sterling  Rupees  Other  
+(Specify)  
+       

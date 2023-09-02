@@ -1,0 +1,69 @@
+79 
+ g) Any waivers from requirement of Performance Security/ Warranty Bond, and LD 
+Clause would be considered as deviation from the prescribed procedure and will be 
+dealt as per para 1.10 of this Manual except following categories of procurement 
+cases, where CFA would accord approval with the concurrence of associated 
+Finance:  
+(i) Procurement of stores/ services on PAC/ Single Tender basis with approval of CFA 
+concerned. 
+(ii) Orders for procurement of spares/ repair of stores from OEMs. 
+(iii) Procurement of small value procurement (upto Rs.2.5 Lakh). 
+6.44 PAYMENT TERMS: 
+The payment terms should normally be in accordance with those indicated in the RFP. 
+Any change of payment terms from those specified in the RFP can alter L1 
+determination. As such CNC must take into account the time value of money as per 
+Discounted Cash Flow ( DCF) Technique given in Chapter 8 of this Manual while 
+agreeing to any change and record the justification for accepting any variation in 
+payment terms from the RFP. The broad payment terms are as under: 
+6.44.1 Normal Payment Term : The normal terms of payment are 100% within 30 days after 
+receipt & acceptance of stores in good condition or the date of receipt of the bill 
+whichever is later. In cases where installation is required and is covered in the scope of 
+the order, not more than 80% payment will be released on receipt of goods and 
+balance will be paid after installation and commissioning. However based on the merit 
+of the case, payment up to 100% against proforma invoice/ delivery may be agreed for 
+consumable stores such as chemicals, gases, etc., when insisted upon by the bidder. 
+6.44.2 Advance Payment : Ordinarily, payments for services rendered or supplies made 
+should be released only after the services have been rendered or supplies made. 
+However, it may become necessary to make advance payments in the following types 
+of cases:  
+a) Advance payments are demanded by bidders for maintenance contracts such as 
+servicing of air-conditioners, computers, other costly equipment, etc.  
+b) Advance payments demanded by bidders against Project with long execution time, 
+development contract, fabrication contracts, turnkey contracts, etc. 
+c) Where envisaged earlier and decided to provide advance payment, the quantum 
+should be incorporated upfront in the RFP. 80 
+ d) Quantum of Advance:  Such advance payments should not exceed the following 
+limits: 
+(i) 40% of the contract value for PSUs. 
+(ii) 30% of the contract value for private firms .  
+(iii) Basic amount payable for six months in case of maintenance contracts; 
+(iv) For projects sanctioned by GOI through CCS or EC/PC of NCA route, 
+advance payments would be considered as per the necessity in line with 
+Delegation of Financial Powers in vogue. 
+(v) Wherever justified organizations such as NICSI, MTNL, RailTel, BSNL etc. 
+which function under the aegis of government departments and payment to 
+Air Consolidation Agent towards custom duty for clearance of goods from 
+customs authorities will be allowed up to 100% advance payment whenever 
+insisted upon either in one-go or in stages approved by the CFA based on 
+recommendation of CNC. 
+e) Securing the Advance:  While making any advance payment, adequate 
+safeguards in the form of bank guarantee or indemnity bond for PSU/ Govt. Dept. 
+in favour of the Director of Lab/Estt of appropriate value (~110% of advance 
+amount), should be obtained from the Seller. In cases where interim deliveries are 
+being provided during currency of the contract and payment commensurate to such 
+deliveries are being made as agreed to in Contract, the Advance Payment Bank 
+Guarantee (APBG) will be deemed to be proportionately and automatically reduced 
+until full extinction. In such cases the Seller would be provided the option to furnish 
+separate Bank Guarantees for each lot/batch/deliverable(s) (as specified in the 
+S.O/Contract) to simplify the prorated reduction of APBG . Sample format of bank 
+guarantee and indemnity bond are given in forms DRDO.BG .02 and DRDO.BG .03 
+respectively. Requirement of BG or Indemnity Bond may not be insisted upon and 
+should be at the discretion of CFA for Govt. Dept/ reputed academic institutions 
+such as IITs etc. or for low value orders up to Rs. 2 lakh to reputed private firms 
+when no other mode of payment is acceptable to them. However, following points 
+must be ensured: 
+(i) Advance paid to the Seller is prone to be used by them for the purpose 
+other than the one for which it is disbursed. Therefore, adequate steps must 
+be taken to ensure that advance is disbursed against anticipated cash out 
+flow and the Seller is not benefited unduly by the way of retention of 
+advance when no cash outflow is anticipated.  

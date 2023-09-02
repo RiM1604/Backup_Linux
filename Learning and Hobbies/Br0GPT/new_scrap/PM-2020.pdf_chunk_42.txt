@@ -1,0 +1,70 @@
+69 
+ method of evaluation may be followed for purposes of comparison as indicated in RFP. 
+For a fair comparison and to determine the real cost of procurement, details as given in 
+the quotations such as delivery ex-godown or FOR destination, transportation, 
+inspection costs etc. will be reflected in the CSB. In case cash flow involves more than 
+one currency, these should be brought to a common denomination in Rupees by 
+adopting exchange rate as per para 8.3.2 of this Manual. The CSB will be signed by 
+the Head of the User Group and Head MMG. Assessment of L1 will be done on the 
+basis of criteria stated in the RFP and negotiation, if required, will be carried out only 
+with L1.  The case will be further processed as per para 6.42 of this Manual onwards. 
+Deviations, if any, from the prevailing procedure and/ or from RFP would be clearly 
+recorded in the CSB. 
+6.33 EVALUATION OF TECHNO-COMMERCIAL BIDS: 
+In a two-bid system, a thorough evaluation of the techno-commercial bids will be 
+carried out by a duly appointed Techno-Commercial Evaluation Committee (TCEC). 
+The evaluation of techno-commercial bids must be done within the framework of RFP. 
+6.33.1 Techno-Commercial Evaluation Committee (TCEC) : A TCEC will be appointed by 
+the Director/ Program Director comprising of following officers: 
+Sc. „F‟  or above  (from other than user group)  Chairman  
+Technical Expert (Sc. „D‟ or above  from other than user group)  Member  
+Rep  MMG   Member  
+Rep QAC , if required  Member  
+Rep User Group  Member Secretary  
+In addition, the Constituting Authority may include technical experts from sister 
+Lab/Estt and/or outside experts from other Govt. Dept/ Academic Institutions to derive 
+technical advantage based on their expertise.  
+6.33.2 Finance rep need not be associated with the TCEC. However, in cases where 
+commercial terms are to be normalized before opening of Price Bid, a rep from finance 
+will be co-opted by the Chairman/ Constituting Authority. 
+6.33.3 Evaluation of Technical Bids : The main objective of the TCEC is to prepare 
+compliance matrix showing how the technical parameters of bids received are 
+compliant with the parameters mentioned in the RFP. TCEC can accept better 
+specification being offered after recording the gist of deliberations and reasons/ 
+justification for the same provided it is acceptable to the user . This kind of changes 
+would not be used to reject any bidder. It is reiterated that TCEC‟s job is to evaluate the 70 
+ technical bids from the viewpoint of “compliance to RFP” or “non -complia nce to RFP”. It 
+is not open to TCEC to set aside the RFP and start making a de novo exercise of 
+finding, which technical bid is acceptable and which is not. 
+6.33.4 Normalization of Commercial Terms : TCEC should also evaluate the commercial 
+terms such as payment terms, warranty/ guarantee, taxes & duties, End Use Certificate 
+(EUC), export license, installation & commissioning, and training etc. to ensure 
+compliance of RFP in the bids submitted. Normally commercial normalization after 
+opening of bid should be avoided, however, where it becomes essential to bring 
+uniformity, finance rep will be involved. All technically acceptable bidders may be 
+offered uniform commercial terms. If necessary, they may be given equal opportunity to 
+revise/ amend their price bids as per the normalized commercial terms. TCEC minutes 
+should appropriately record the same. If, in spite of the efforts made by the TCEC, 
+variations persist in commercial terms; this will not form the basis for rejection of 
+technically acceptable offers except in case of EUC. Where EUC has to be submitted, 
+TCEC should scrutinize the format provided by the technically accepted bidders for its 
+acceptability. TCEC can refer the EUC format to the Directorate of International Co-
+operation (DIC), DRDO HQ in case need is felt for the same. The decision to reject the 
+bid on the basis of EUC can be taken only with the concurrence of DIC. 
+6.34 IMPORTANT GUIDELINES FOR THE TCEC: 
+For the purpose of proper assessment/evaluation, the TCEC will prepare a techno-
+commercial CSB as per format at DRDO. BM.05 bringing out the comparison between 
+the specifications/ other terms asked for and that offered by vendors. While preparing 
+TCEC minutes, value of technical parameters/ specifications as quoted by bidders 
+along with compliance/ non-compliance status must be clearly indicated against all 
+parameters/ requirements stated in the RFP. 
+6.34.1 The TCEC is empowered to invite/ interact with bidders, who have responded to the 
+RFP, for technical presentation/ clarification if considered necessary. Confirmation of 
+clarifications received in such meetings/ interactions may be obtained in writing from 
+respective bidders. 
+6.35 REVISION OF BIDS: 
+6.35.1 For minor revision in the technical parameters/ specifications emerging during the 
+technical evaluation of bids by TCEC or clarification received from the bidders, which 
+does not affect the basic functional requirement of the product, equal opportunity must 
+be given to all bidders to re-submit their bids to ensure fair play. 
+6.35.2 The original price bid must remain firm/ fixed and no price revision should be permitted 

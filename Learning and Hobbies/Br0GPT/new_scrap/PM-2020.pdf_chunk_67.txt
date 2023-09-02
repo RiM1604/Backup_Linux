@@ -1,0 +1,75 @@
+119 
+ Values (NPV) through a more scientific and reliable method. The use of NPV analysis 
+is based on the concept of time value of money.  Money has a time value because of 
+the opportunity to earn interest or the cost of paying interest on borrowed capital.  This 
+means that a sum to be paid today is worth more than a sum to be paid in a future time.  
+The cash out-flows/in-flows and the average cost of capital i.e., cost of borrowing 
+becomes an important constituent in evaluation process.  The following formula is to be 
+used for calculating NPV of a bid: 
+𝑁𝑃𝑉 = 𝐴𝑛
+(1 +𝑖)𝑡
+𝑛 
+Where   
+NPV = Net Present Value  
+An = Expected cost flow for the period mentioned by the subscript  
+i = Rate of Interest  or discount factor  
+t = Period after which payment is to be made  
+n = Payment schedule as per the payment terms and conditions  
+When comparing the various bids based on NPV analysis, the bid with the lowest NPV 
+should be declared as L1. 
+8.9.2 Steps involved in NPV : The application of NPV analysis in defence procurement 
+would involve the following five steps: 
+a) Step 1: Selection of the discount rate 
+b) Step 2: Identifying the cash outflows  
+c) Step 3: Establishing the timing of the cash outflow 
+d) Step 4: Calculating the NPV of each alternative 
+e) Step 5: Selecting the offer with the least NPV 
+8.9.3 Example:  In response to a RFP, two bidders have quoted different prices and payment 
+terms as per the details given underneath: 
+ Quoted 
+Price  Payment Plan  
+T0 + 1 T0 + 6 T0 + 7 T0 + 9 T0 + 12 
+Bidder (1)  102 10% 20% - 30% 40% 
+Bidder (2)  100 30% - 40% - 30% 
+ 
+Here T 0 is Contract Effective Date (C ED); Let the rate of interest be 12%. 120 
+ Then as per the formula given above, NPV of Bidder (1) is: 
+𝑁𝑃𝑉  =(102 ×10/100)
+(1 + 12/100)1/12+ (102 ×20/100)
+(1 + 12/100 )6/12+   102 ×30/100 
+(1 + 12/100)9/12+ (102 ×40/100 )
+(1 + 12/100)12/12
+=93.92 
+and NPV of Bidder (2) is: 
+𝑁𝑃𝑉  =(100 ×30/100)
+(1 + 12/100)1/12+  (100 ×40/100)
+(1 + 12/100 )7/12+   100 ×30/100 
+(1 + 12/100)12/12=93.94 
+So Bidder (1) is L1. 
+8.9.4 Discounting Rate:  Discounting rate to be used under the DCF technique is MCLR 
+(Marginal Cost of Funds based Lending Rate) declared by RBI pertaining to SBI for the 
+latest month of the year.  
+8.9.5 Method for structuring cash flows : A suitable model for structuring cash flows for 
+bids is as under:  
+a) The first step would be to exclude the unknown variables like escalation factors etc 
+while determining the cash flows. 
+b) Thereafter the cash out flow as per the price bids of different biddders should be 
+taken into consideration and where the cash out flows are not available in the bids, 
+the same should be obtained from the respective bidders. Where bids are received 
+in different currencies/ combination of currencies, the cash o utflow will be brought 
+to a common denomination in rupees by adopting exchange rate (BC selling rate of 
+SBI) as on the date of opening of price bids. 
+c) Once the outflows of different bids become available, NPV of different bids to be 
+calculated using the formula given above and the one with the lowest NPV is to be 
+selected. 
+8.9.6 When the DCF is to be used : The alternative with the smallest payment of NPV in the 
+procurement is the obvious choice.  The DCF may be made use of to facilitate 
+determination of L1 in following procurement situations: 
+a) To compare different payment terms of the bidders to a common denomination for 
+determining L1 status. 
+b) To deal with the cases where entering into AMC over a period of more than one 
+year is part of the contract for evaluating L1 status. Determination of L1 by merely 
+adding the arithmetic values spread over a long period of time would be an 
+incorrect procedure for determining L1 and the correct procedure would be to 
+reduce cash out flows into present values through the DCF technique, for which the 
+discount rate to be adopted should form part of the RFP. 

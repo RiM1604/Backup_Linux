@@ -1,0 +1,69 @@
+67 
+ has been given in case of OBM . (Yes/ No ) 
+d) Whether vendor qualification criteria / special terms and conditions of RFP were 
+very restrictive. ( Yes/ No ) 
+e) Review if sufficient time was given to the bidders to respond while issuing the 
+RFP. Whether the RFP had been properly dispatched and duly received by the 
+prospective bidders to whom these were sent. ( Yes/ No ) 
+6.30.1 The above examination would be done, based on the information provided by the user, 
+by TCEC for two bid system and a Committee (comprising of indenter, technical expert 
+from other Group and Rep. MMG) for single bid system. If the examination reveals that 
+answer to (a), (b) and (d) are no, and answers to (c) & (e) are yes, recommendations of 
+committee would be processed as per para (a) and (b) below . Otherwise, case will be 
+re-floated i.e. in case of any doubt about the bidding process or it is considered feasible 
+to reformulate specifications/ terms and conditions of RFP/ vendor qualification criteria 
+without compromising the requirement, the RFP should be retracted and re-issued after 
+rectifying the deficiencies. 
+a) Receipt of two quotations (in single bid system) or technically qualified (in 
+two bid system): Approval of CFA as per delegation of financial powers for 
+OBM / LBM procurements would be obtained for processing the procurement 
+case further. 
+b) Receipt of only one quotation (in single bid system) or technically qualified 
+(in two bid system): Such cases, the mode of bidding should be changed to 
+Single Bid without PAC and appropriate approval of CFA as per delegation of 
+financial powers would be obtained for processing the procurement case further. 
+6.30.2 However, cases with inadequate response, beyond the delegated powers of Secretary 
+Defence ( R&D ), would require „ in-principle‟  approval of Secretary Defence ( R&D ) with 
+the concurrence of Addl. FA (R&D) & JS for further processing the procurement case. 
+Approval of CFA shall be taken at the time of obtaining Expenditure Sanction. 
+6.31 RE-FLOATING OF RFP: 
+Re-floating will be resorted to only in exceptional circumstances as it entails additional 
+costs as well as delays the procurement process. Approval of CFA would be taken as 
+per delegation of financial powers for re-floating of RFP. It should be done with utmost 
+caution generally under the following circumstances:  
+a) Offer(s) do not conform to qualitative requirements and other terms and 
+conditions set out in the RFP. 68 
+ b) There are major changes in specifications and quantity, which may have 
+considerable impact on the price. 
+c) Prices quoted are unreasonably high with reference to estimated cost or there is 
+evidence of a sudden slump in prices after receipt of the bids. 
+d) Where there is lack of competition and there are clear and reasonable grounds to 
+believe that the lack of competition was due to restrictive specifications, which 
+could have restricted participation. Such cases should, however, be rare as the 
+specifications must be formulated with due care.  
+e) Before re-floating, Lab should consider if there is a possibility of reviewing the 
+specifications/ special terms and conditions/ vendor qualification criteria to meet 
+the objective. 
+f) In cases where a decision is taken to go for re-floating of RFP but the 
+requirements are urgent, negotiations may be under taken with L1 bidder(s) for 
+the supply of a bare minimum quantity in accordance with para 3 of CVC 
+instructions dated 3rd March 2006 (for latest guidelines issued by CVC in this 
+regard, CVC website may be referred). 
+g) Withdrawal of offer by L1:  In case the lowest bidder withdraws its offer, 
+procuring entity shall cancel the procurement process and re-floating should be 
+resorted to except for the cases covered under provisions of para 8.5 .3. While re-
+floating, RFP will not be issued to the bidder who had backed out and EMD, if 
+any, of such firm should be forfeited or action will be taken as per para 6.10.8.  
+h) If the objectives for re-floating are not met when fresh bids are received, Director 
+for non CNC cases or CNC may take stock of the situation keeping in view 
+changed market conditions, repercussions of further delay, any other factors  and 
+recommend accordingly.  
+6.32 PREPARATION OF COMPARATIVE STATEMENT OF BIDS ( CSB) IN NON-CNC 
+CASES: 
+The CSB will be as per the format given at DRDO. BM.04. The Part I of CSB will record 
+details of bids received and indicate the ir compliance vis-à-vis the terms and conditions 
+of the RFP. Bids without material deviations would be considered in Part II.  Part II of 
+CSB will indicate all details of offers, i.e., nomenclature, price, payment terms, 
+statutory levies, duties, insurance, packing & forwarding charges, installation & 
+commissioning charges, training charges etc., as given in the quotations. In case of 
+variation in payment terms quoted by the bidders, the Net Present Value (NPV) 

@@ -1,0 +1,68 @@
+109 
+ inspection for each of the clauses. Any other inspection instruction, if required, may be 
+added.)  
+7.3.19 Franking Clause : The fact that the stores have been inspected after the delivery 
+period and accepted by the inspectorate does not bind the Buyer, unless at his 
+discretion he agrees, to accept delivery thereof. A suitable provision shall be made in 
+the RFP to address such type of concern. The standard text of this clause is as under: 
+a) In Case of Acceptance of Store(s):  “The fact that the goods have been inspected 
+after the delivery period and passed by the Inspecting Officer will not have the 
+effect of keeping the contract alive. The goods are being passed without prejudice 
+to the right s of the Buyer under the terms and conditions of the Contract”.  
+b) In Case of Rejection of Store(s):  “The fact that the goods have been inspected 
+after the delivery period and rejected by the Inspecting Officer will not bind the 
+Buyer in any manner. The goods are being rejected without prejudice to the rights 
+of the Buyer under the terms and conditions of the contract.”  
+7.3.20 Claims : For settlement of claim in respect of deficiency in quality/ quantity of supplies 
+made under the contract, following clause may be provided in the RFP: 
+a) The quantity claims for deficiency of quantity and/ or the quality claims for defects 
+or deficiencies in quality noticed during the inspection shall be presented within 45 
+days of completion of inspection. 
+b) The Seller shall collect the defective or rejected goods from the location indicated 
+by the Buyer and deliver the repaired or replaced goods at the same location, 
+within mutually agreed period, under Seller‟s arrangement without any financial 
+implication on the Buyer.  
+7.3.21 Warranty : Following clause should be provided in the RFP where warranty of goods 
+being procured is required:  
+a) “The Seller will declare that the goods, stores articles sold/  supplied shall be of the 
+best quality and workmanship and new in all respects and shall be strictly i n 
+accordance with the specifications and particulars contained/ mentioned in the 
+contract. The Seller will guarantee that the said goods/ stores/ articles would 
+continue to conform to the description and quality for a period of, ___ months from 
+the date of acceptance/ installation of the said goods stores/ articles. If during the 
+aforesaid period of ___ months, the said goods/ stores are discovered not to 
+conform to the description and quality aforesaid, not giving satisfactory 
+performance or have deteriorated, the Buyer shall be entitled to call upon the Seller 110 
+ to rectify the goods/ stores/ articles or such portion thereof as is found to be 
+defective by the Buyer within a reasonable period without any financial implication 
+to the Buy er.” 
+b) “In cases of procurement of software , Seller shall issue/provide upgrades of the 
+software free of cost during the warranty period.”  
+7.3.22 Product Support : Following clause should be provided in the RFP where product 
+support beyond warranty period is required: 
+a) The Seller agrees to provide product support for the stores, assemblies/ sub-
+assemblies, fitment items, spares and consumables, Special Maintenance Tools 
+(SMT)/ Special Test Equipments (STE) for a minimum period of _____years 
+including _____ years of warranty period after the delivery.  
+b) The Seller agrees to undertake a maintenance contract for a minimum period of 
+______years/ months. The Seller is required to quote the price for both 
+comprehensive and non-comprehensive maintenance of the equipment after the 
+expiry of warranty period in the price bid.  
+7.3.23 Annual Maintenance Contract (AMC) Clause : In case of AMC or where AMC is also 
+required along with the procurement of goods, a clause to cover such maintenance 
+contract may be incorporated in the RFP. The standard text of this clause is as under: 
+a) The Seller would provide a Non- Comprehensive AMC for a period of ___ years. 
+Or 
+The Seller would provide a Comprehensive AMC for a period of ___ years. The 
+AMC services should cover the repair and maintenance of all the equipment and 
+systems purchased under the Contract and specify following:  
+(i) Maximum repair turnaround time for equipment/system would be _____ 
+days. 
+(ii) Required spares that may be stored at site by the Seller at their own cost 
+to avoid complete breakdown of the equipment/system and to ensure 
+serviceability. 
+b) The AMC services would be provided in two distinct ways: 
+(i) Preventive Maintenance Service:  The Seller will provide a minimum of 
+_____ Preventive Maintenance Service visits during a year to the operating 
+base to carry out functional checkups and minor adjustments/ tuning as 
+may be required.  

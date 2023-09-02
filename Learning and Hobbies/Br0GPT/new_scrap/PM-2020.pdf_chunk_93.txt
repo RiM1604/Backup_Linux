@@ -1,0 +1,50 @@
+171 
+ As an example, the following procedure can be followed. In a particular case of 
+selection of service provider, It was decided to have minimum qualifying marks for 
+technical qualifications as 75 and the weightages of the technical bids and financial bids 
+was kept as 70 : 30. In response to the RFP, 3 proposals, A, B & C were received. The 
+TCEC awarded them 75, 80 and 90 marks respectively. The minimum qualifying marks 
+were 75. All the 3 proposals were, therefore, found technically suitable and their 
+financial proposals were opened after notifying the date and time of bid opening to the 
+successful participants. The C NC examined the financial proposals and evaluated the 
+quoted prices as under: 
+Proposal  Evaluated Cost  
+A Rs. 120  
+B Rs. 100  
+C Rs. 110  
+Using the formula LEC / EC, where LEC stands for lowest evaluated cost and EC 
+stands for evaluated cost, the committee gave them the following points for financial 
+proposals:  
+Proposal  Evaluated Cost  Cost Marks   
+A Rs. 120  (100/120) x 100  = 83 points  
+B Rs. 100  (100/100 ) x 100  = 100 points  
+C Rs. 110  (100/110 ) x 100  = 91 points  
+In the combined evaluation, thereafter, the evaluation committee calculated the 
+combined technical and financial score as under: 
+ Proposal  Evaluated Cost  Cost Marks  Combined Marks  
+A Rs. 120  83 points  (75 x 0.70) + (83 x 0.30) = 77.4 pts  
+B Rs. 100  100 points  (80 x 0.70) + (100 x 0.30) = 86 pts  
+C Rs. 110  91 points  (90 x 0.70) + (91 x 0.30) = 90.3 pts  
+The three proposals in the combined technical and financial evaluation were ranked as 
+under:  
+Proposal  Evaluated Cost  Cost Marks  Combined Marks  Rank  172 
+ A Rs. 120  83 pts  77.4 pts  H3 
+B Rs. 100  100 pts  86 pts  H2 
+C Rs. 110  91 pts  90.3 pts  H1 
+Proposal C at the evaluated cost of Rs.110 was, therefore, declared as winner and 
+recommended for negotiations/approval, to the competent authority. 
+14.8.5 Outsourcing by Choice : In exceptional situations should it become necessary to 
+outsource a job by nomination to a specifically chosen service provider/ contractor, the 
+CFA may do so in consultation with finance. In such cases the detailed justifications, 
+the circumstances leading to the outsourcing by nomination and the special interest or 
+purpose it shall serve shall form an integral part of the proposal. 
+14.8.6 Expenditure Sanction : The expenditure sanction would be obtained from the CFA and 
+contract will be entered as per the provisions given in Chapter 9 of this Manual. 
+14.8.7 Contract Monitoring : Lab/Estt may constitute a committee of not less than 3 officers of 
+appropriate level to continuously monitor the performance of service provider/ 
+contractor. Payment as per the schedule would be released to the service provider after 
+receipt of satisfactory service report and confirmation for ensuring compliance of 
+contract obligations & statutory rules governing payment of wages to the employees of 
+the service provider. 
+14.8.8 Extension of Contracts : Extension of the contracts for outsourcing the services shall 
+be done in accordance with para 10.12  of this Manual.  

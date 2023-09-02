@@ -1,0 +1,70 @@
+99 
+ of the Contract/ SO are not fulfilled by the S eller.”  
+7.3.3 Tolerance Clause : This clause provides the Buyer an opportunity to address the 
+change in the requirement during the period starting from issue of RFP till placement of 
+SO/ Contract. The standard text of this clause is as under: 
+“To take care of any change in the requirement during the period starting from issue of 
+RFP till placement of the Contract, Buyer reserves the right to increase or decrease 
+25% of the quantity of the required goods, proposed in the RFP, without any change in 
+the terms and conditions and rates quoted by the Seller. While awarding the Contract, 
+the quantity ordered can be increased or decreased by the Buyer within this tolerance 
+limit.”  
+7.3.4 Option Clause : This clause empowers the Buyer to place additional orders, within the 
+currency of the original Contract/SO, for additional quantity up to a maximum of 50% of 
+the originally contracted quantity (rounded up to the next whole number) at the same 
+rate and terms of the original Contract/SO. The standard text of this clause is as under: 
+“The Contract will have an Option Clause, wherein the Buyer can exercise an option to 
+procure an additional 50% of the original contracted quantity (rounded up to the next 
+whole number) in accordance with the same terms and conditions of the Contract. This 
+will be applicable within the currency of the Contract. It will be entirely the discretion of 
+the Buyer to exercise this option or not ”. 
+7.3.5 Repeat Order Clause : This clause empowers the Buyer to place additional orders up 
+to 50% quantity of the original contracted quantity (rounded up to the next whole 
+number), within  twelve months from the date of completion of supply under the original 
+Contract/ SO, at the rates on not exceeding basis while the terms and conditions will 
+remain unchanged. The standard text of this clause is as under:  
+“The Contract will have a Repeat Order Clause, wherein the Buyer can order up to 50% 
+quantity of the original contracted quantity (rounded up to the next whole number) 
+under the Contract within  twelve months from the date of completion of supply under 
+the original Contract/ SO. The Repeat Order will have rates on not exceeding basis 
+while the terms and conditions will remain unchanged. It will be entirely the discretion of 
+the Buyer to exercise the Repeat ord er or not.”  
+7.3.6 Purchase Preference Clause : The RFP should inform potential bidders about 
+purchase preference as prescribed by the Govt. of India from time to time through 
+statutory orders or administrative instructions. The standard text of this clause is as 
+under: 100 
+ “Purchase preference will be granted as per Public Procurement (Preference to Make 
+in India), Order-2017 as amended, issued by DPIIT/Ministry of Commerce and 
+Industry .” 
+7.3.7 Transfer of Technology (ToT):  ToT is the process of transferring skills, knowledge, 
+technologies, methods of manufacturing and facilities by one party to other. This is to 
+ensure that the scientific and technological developments are accessible to Labs/Estts 
+to further develop and exploit the technology for development of new product, 
+processes, applications, materials or services. Following clause may be included in the 
+RFP where ToT is being sought:  
+“Buyer is desirous of license production of (generic name of store(s)) under ToT. Bu yer 
+reserves the right to negotiate ToT terms subsequently but the availability of ToT would 
+be a pre-condition for any further procurements. If negotiations for ToT are not held as 
+a part of the negotiations for store(s), then subsequent and separate ToT negotiations 
+would continue from the stage where the store(s ) has been selected.”  
+(In such cases, Labs/Estts. would spell out the requirements and scope of ToT 
+depending upon the depth of the technology which is required). 
+7.3.8 Permissible Time Frame for Submission of Bills : RFP should explicitly state about 
+the timeline for submission of bills for claiming payment. The standard text of this 
+clause is as under: 
+“To claim payment (part or full), the Seller shall submit the bill(s) along with the 
+relevant documents within ___ days from the completion of the activity/ supply.” (Lab 
+should mention the no. of days and the activity from which the counting will start) 
+7.3.9 Payment Terms : Payment terms are of great importance to both Buyer and Seller as 
+the cost of finance plays a very important role in deciding the cost of an item or service 
+being contracted for. RFP should clearly state the terms of payment including stage 
+payment/ advance payment, if any, as well as the mode of payment. The payment 
+terms should normally be in accordance with the options given in RFP as any change 
+of payment terms specified in the RFP can alter L1 determination. In case where the 
+payment terms offered by the bidders differ from the options given in the RFP, DCF 
+technique may be utilized for LI determination. The standard text of this clause is as 
+under: 
+a) For Indigenous Seller:  The payment will be made as per the following terms, on 
+production of the requisite documents: 
+(i) 100% payment within 30 days after receipt, satisfactory installation and 
+acceptance of stores/equipment in good condition or the date of receipt of 

@@ -1,0 +1,67 @@
+59 
+ 6.15 GENERAL GUIDELINES: 
+The common factors to be kept in mind while inviting bids are: 
+6.15.1 Indenter may propose the mode of bidding and the system of bid submission to be 
+adopted for each purchase; however CFA is the competent authority to decide on the 
+mode of bidding and system of bid submission for the procurement as per the 
+delegation of financial powers.  
+6.15.2 As far as possible, procurement of items shall be sourced from original manufacturers 
+unless the original manufactures themselves decline to entertain RFPs and redirect the 
+inquiries to their authorized distributors/ dealers. This may happen when the 
+procurement is too small to elicit attention of original manufacturers or due to their 
+contractual obligations. Adequate care must be taken to discourage mere traders, 
+especially in procurement of expensive items, after careful consideration of aspects like 
+after-sale- services/ support/ maintenance and manufacturer‟s warranty against 
+manufacturing defects.  
+6.15.3 Due date & time of submission and opening of bids will be clearly mentioned in the 
+RFP. Time gap between submission and opening of bids should generally be kept 
+within 24 hours. In two bid system, only techno-commercial bid will be opened on the 
+date of opening. 
+6.15.4 The day selected for opening of bid should be a working day. Monday or day followed 
+by a series of holidays should be avoided, as far as possible. 
+6.15.5 Time likely to be taken to secure and study specifications/ drawings by the firm will be 
+taken into account, wherever applicable to decide the reasonable time for submission 
+of bid. Normally, the reasonable time to be allowed for submission of bids for various 
+modes of bidding process is as under:  
+a) Open Bidding mode (OBM)- Minimum 21days ( for Indian Bidders)/28 Days ( for 
+Global Bidders) 
+b) Limited Bidding Mode (LBM)- Minimum 14 Days 
+c) Single Bidding Mode/ PAC mode (SBM/PBM) – Minimum 5 Days 
+6.15.6 Reduced time frame for submission of bids may be adopted with the approval of CFA in 
+the case of e-tendering as permissible; emergent procurement of stores/ services and 
+emergent repairs by use of FAX/email etc. 
+6.15.7 Realistic validity period of the bids will be specified in the RFP. This period will be fixed 
+keeping in view the nature of stores and other administrative formalities. A bid shall 
+remain valid for 90 days for single-bid system and up to 180 days for two-bid system 60 
+ from the date of opening of bid, unless otherwise specified.  
+6.15.8 RFP will be signed for and on behalf of „President of India‟.  
+6.15.9 Only relevant clauses from different parts of RFP template, as applicable, will be 
+included in the RFP. Non-applicable clauses would be struck off to obviate any 
+confusion in the mind of bidders. 
+6.15.10 All correspondence with vendors in respect of the RFP and supply order, etc., will 
+preferably be done through MMG only. 
+6.15.11 The RFP must reflect all special conditions/ clauses required to be incorporated in the 
+contract/ supply order. 
+6.15.12 Any Purchase preference/ Product Reservation Policy of Govt. applicable to the 
+procurement must be mentioned upfront in the RFP. 
+6.15.13 In case samples are also required for techno-commercial evaluation, it should be 
+mentioned in the RFP that the bidders found technically compliant would have to 
+provide specified quantity(ies) of the item on „no -cost-no- commitment‟ (NCNC) basis for 
+trial evaluation/ testing. The period within which the bidder must submit the equipment/ 
+sample, after being found technically compliant, must be indicated in the RFP. Such 
+provision should be included only after obtaining approval of CFA as per delegation of 
+powers. 
+6.15.14 In case pre-bid conference is required with the prospective bidders for better 
+understanding of the RFP requirements, the same shall be mentioned in the RFP with 
+the date, time and venue. 
+6.16 REFERENCE TO BRAND NAMES IN THE RFP: 
+Standards and specification, provided in bidding documents in generic terms shall 
+promote the broadest possible competition while assuring the critical performance or 
+fulfillment of other requirements for the goods. Reference to brand names, catalogue 
+numbers, etc. in the RFP should be avoided. 
+6.17 VETTING OF RFP BY INTEGRATED FINANCE: 
+To the extent possible Labs/Estts are advised to use the standard RFP as per 
+DRDO. BM.02. In case of any deviation from the standard text, CFA may get the RFP 
+vetted by Integrated Finance. Waiver of clauses such as Performance Security Bond, 
+Warranty Bond and Liquidated Damages (LD) would be dealt as per para 1.10 of this 
+Manual. 
